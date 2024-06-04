@@ -1,11 +1,11 @@
 {
-    "name": "vendor/image-compressor",
+    "name": "chabbav/image-compressor",
     "description": "simple image compressor for php",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Huawei\\ImageCompressor\\": "src/"
+            "ChabbaV\\ImageCompressor\\": "src/"
         }
     },
     "authors": [

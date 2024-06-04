@@ -1,6 +1,6 @@
 <?php
 
-namespace ImageCompressor;
+namespace ChabbaV\ImageCompressor;
 
 class ImageCompressor
 {
