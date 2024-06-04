@@ -1,5 +1,5 @@
 {
-    "name": "huawei/image-compressor",
+    "name": "vendor/image-compressor",
     "description": "simple image compressor for php",
     "type": "library",
     "license": "MIT",
