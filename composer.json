@@ -1,0 +1,17 @@
+{
+    "name": "huawei/image-compressor",
+    "description": "simple image compressor for php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Huawei\\ImageCompressor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chabba saad"
+        }
+    ],
+    "require": {}
+}
