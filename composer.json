@@ -1,11 +1,11 @@
 {
-    "name": "chabbav/image-compressor",
+    "name": "chabbav/image-compressor-v1",
     "description": "simple image compressor for php",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "ChabbaV\\ImageCompressor\\": "src/"
+            "ChabbaV\\ImageCompressorV1\\": "src/"
         }
     },
     "authors": [

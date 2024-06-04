@@ -1,8 +1,8 @@
 <?php
 
-namespace ChabbaV\ImageCompressor;
+namespace ChabbaV\ImageCompressorV1;
 
-class ImageCompressor
+class ImageCompressorV1
 {
     /**
      * Compress and resize an image
